@@ -1,0 +1,1 @@
+php.exe c:\users\max\git\oneconnex_frontend\app\console assets:install c:\users\max\git\oneconnex_frontend\web --symlink
